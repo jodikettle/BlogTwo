@@ -328,3 +328,8 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+CodeForBags/App_Data/
+CodeForBags/Media/
+CodeForBags/Web.config
+CodeForBags/Web.Debug.config
+CodeForBags/Web.Release.config
